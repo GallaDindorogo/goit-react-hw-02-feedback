@@ -37,7 +37,7 @@
   color: #000;
   background: -webkit-gradient
     (linear, left top, left bottom, from(#18581c8b), to(#ececec));
-  background: -webkit-linear-gradient(#6239b5, #dff6e5);
+  background: -webkit-linear-gradient(#7b5fb1, #a7acaa);
   background-image: -moz-linear-gradient(top, #ba3f23, #ececec);
   background-image: -moz-gradient(top, #b2cc0b, #ececec);
 }

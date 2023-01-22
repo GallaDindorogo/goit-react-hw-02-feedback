@@ -1,5 +1,5 @@
 .list {
-  background-color: rgba(164, 178, 232, 0.721);
+  background-color: rgba(152, 161, 192, 0.721);
   margin: 0;
   padding: 20px;
   display: flex;
@@ -10,7 +10,7 @@
 
 .item {
   margin-bottom: 5px;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 200;
 }
 
